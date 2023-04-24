@@ -1,0 +1,13 @@
+{
+  "name": "exerciciojeofton",
+  "version": "1.0.0",
+  "description": "Meu exercicio com Node.js",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts":{
+    "start": "node app"
+}
+}
+
